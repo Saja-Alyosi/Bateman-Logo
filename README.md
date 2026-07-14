@@ -8,15 +8,19 @@ For the second mechanics task: Choose any image from the internet and measure it
 
 A 3D model of the Batman logo, designed using [Onshape](https://www.onshape.com/).
 
-## 📐 Overview
+- ✏️ **Sketch 1 / Extrude 1** — Base batman shape.(4mm)
 
-A fully parametric bat logo design, built with editable Sketches and Extrude features.
+  
+- ✏️ **Sketch 2 / Extrude 2** — circular piece.(2mm)
 
-## ⚙️ Components
-
-- ✏️ **Sketch 1 / Extrude 1** — Base bat shape.
-- ✏️ **Sketch 2 / Extrude 2** — Extra detail on top of the base shape.
+  
 - 🧩 **Part 1** — Final finished part.
+
+
+
+## 🔗 Onshape Design
+
+[View the design on Onshape](#) <!-- replace # with your Onshape share link -->
 
 ## 🚀 How to Use
 
@@ -24,11 +28,3 @@ A fully parametric bat logo design, built with editable Sketches and Extrude fea
 2. Edit the shapes via **Sketch 1** or **Sketch 2**.
 3. Adjust thickness via **Extrude 1** / **Extrude 2**.
 4. Export the final part (STEP / STL) for 3D printing or use in other software.
-
-## ⚠️ Note
-
-If you get a "did not regenerate properly" error, make sure the sketch is fully closed with no gaps between points.
-
-## 📄 License
-
-Unofficial project for educational purposes. The bat logo is a trademark of DC Comics / Warner Bros., with no official affiliation to this project.
