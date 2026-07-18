@@ -21,19 +21,6 @@ A premium 3D-printable Batman medal with detailed engravings and a professional 
 
 ---
 
-## 📐 Specifications
-
-| Feature | Details |
-|---------|---------|
-| **Width** | 50 mm |
-| **Height** | 28 mm |
-| **Thickness** | 4 mm |
-| **Hole Diameter** | 4 mm |
-| **Triangles** | 1,640 |
-| **File Size** | 81 KB |
-
----
-
 ## 🎯 Quality Assurance
 
 ✓ Tested geometry  
@@ -41,4 +28,3 @@ A premium 3D-printable Batman medal with detailed engravings and a professional 
 ✓ Print-optimized  
 ✓ Professional design  
 ✓ Ready to scale  
--س
