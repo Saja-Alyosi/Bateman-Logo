@@ -17,7 +17,6 @@ A premium 3D-printable Batman medal with detailed engravings and a professional 
 📏 **Perfect Size** - 50mm × 28mm × 4mm (ideal for medals)  
 🎨 **Professional Finish** - Smooth curves and clean geometry  
 ⚡ **Ready to Print** - Optimized STL file for FDM & Resin  
-## 📦 What's Included
 
 ---
 
